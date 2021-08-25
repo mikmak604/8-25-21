@@ -25,4 +25,4 @@ grade4 = input("what did you get in per4")
 
 print("to verify: you scored" + grade1 + "in p1" + grade2 + "in p2" + grades3 + "in p3" + grade4 + "in p4")
 
-GPA = ("your grade point average is") grade1 + grade2 + grade3 + grade4
+GPA = ("your grade point average is") (grade1 + grade2 + grade3 + grade4) /4)
